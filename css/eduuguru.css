@@ -1142,7 +1142,7 @@ small {
     margin-bottom: 2.5rem;
 }
 
-.eduuguruone .borderleft {
+.Eugeneone .borderleft {
     border-left: solid 1px var(--primary-light);
     padding: 0 0 0 3rem;
     margin-top: 3rem;
@@ -1585,9 +1585,9 @@ svg.icon__arrow-up {
         margin: 1.5rem auto 0;
     }
     .choose,
-    .whateduuguru,
+    .whatEugene,
     .whatsin,
-    .eduuguruone,
+    .Eugeneone,
     .subscription,
     .superhero,
     .accredited,
@@ -1640,41 +1640,41 @@ svg.icon__arrow-up {
         font-size: 1.125rem;
         margin-bottom: 1rem;
     }
-    .whateduuguru {
+    .whatEugene {
         flex-direction: column;
     }
-    .whateduuguru div[class^="col"] {
+    .whatEugene div[class^="col"] {
         width: auto;
     }
-    /*.whateduuguru div.col50 {order:2}
-    .whateduuguru div.col50.text-center {order:1}*/
+    /*.whatEugene div.col50 {order:2}
+    .whatEugene div.col50.text-center {order:1}*/
     .whatsin>.flex-container {
         flex-direction: column;
     }
     .whatsin>.flex-container .col33 {
         width: auto;
     }
-    .eduuguruone {
+    .Eugeneone {
         flex-wrap: wrap;
     }
-    .eduuguruone div[class^="col"] {
+    .Eugeneone div[class^="col"] {
         width: auto;
     }
-    .eduuguruone div.col10 {
+    .Eugeneone div.col10 {
         display: none;
     }
-    .eduuguruone div.col70 {
+    .Eugeneone div.col70 {
         margin-top: 1rem;
         flex-direction: column;
     }
-    .eduuguruone div.col40 {
+    .Eugeneone div.col40 {
         padding: 1rem 0 2rem 1rem;
     }
-    .eduuguruone div.col60 {
+    .Eugeneone div.col60 {
         margin-top: 2rem;
         padding-top: 0;
     }
-    .eduuguruone div.col75 a {
+    .Eugeneone div.col75 a {
         padding: 1rem 2rem;
         font-size: 1.25rem;
         width: auto;
