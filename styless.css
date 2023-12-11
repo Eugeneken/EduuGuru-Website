@@ -2,7 +2,10 @@ body{
     background-attachment: fixed;
     background-color: blue;
 }
-greetings{
+.greetings{
     text-emphasis-color: #ff0000;
     text-decoration-color: red;
+    overflow-y: auto;
+    text-wrap: 23px;
+    
 }

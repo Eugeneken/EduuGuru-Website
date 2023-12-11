@@ -109,7 +109,7 @@
         updateHash: false,
         filter: 'a[href^="#"]',
         offset: 0,
-        speed: 600,
+        speed: 700,
         currentClass: "current",
         easing: "swing"
         

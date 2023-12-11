@@ -9992,3 +9992,14 @@ section {
     width: 26%;
   }
 } 
+greetings{
+  min-height: max-content;
+  left: auto;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  margin-top: 32px;
+}
+bootsrap{
+  letter-spacing: 23px;
+  max-width: 300px;
+  
+}
