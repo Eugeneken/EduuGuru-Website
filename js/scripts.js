@@ -627,7 +627,7 @@
 
      $(".ot-testimonial-slider-crypto").owlCarousel({
         rtl: rtl_owl(),
-        autoplay: false,
+        autoplay: true,
         loop: true,
         responsiveClass:true,
         dotsClass: 'owl-dots ot-custom-dots',
